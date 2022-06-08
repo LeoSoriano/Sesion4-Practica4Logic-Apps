@@ -64,6 +64,7 @@ El logic apps, se mantiene en funcionamiento todo el tiempo, se ejecuta cada ves
 15.- Por otro lago nos vamos a cognitive services y creamos uno que se llama language service
  
 ![Language Services](Imagenes/languageservices.PNG)
+
 16.- creamos un language service.
 
 ![Creado el Language Service](Imagenes/createlanguage.PNG)
@@ -106,7 +107,9 @@ El logic apps, se mantiene en funcionamiento todo el tiempo, se ejecuta cada ves
 ![Microsoft Teams](Imagenes/teams.PNG)
 
 27.- Ahora le ponemos que se publique en un canal, buscamos el equipo y el canal donde lo haremos.
+
 ![Publicar en Teams](Imagenes/text.PNG)
+
 29.- ahora nos vamos a Twitter
 
 30.- Y escribimos un Tweet con el **#iawizards**
